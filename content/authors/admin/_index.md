@@ -55,7 +55,7 @@ courses:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:simon.murphy@sydney.edu.au'
 - icon: github
   icon_pack: fab
   link: https://github.com/simonjmurphy
