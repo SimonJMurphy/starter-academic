@@ -14,9 +14,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include stellar pulsations, binary stars, and chemically peculiar stars.
+bio: My research focuses on using stellar pulsations to learn more about stars, binary systems, and chemical peculiarities.
 
 #interests:
+interests:
 - Caving
 - Orienteering
 - Ice Hockey
