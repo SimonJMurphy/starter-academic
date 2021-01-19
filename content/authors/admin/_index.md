@@ -16,8 +16,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on using stellar pulsations to learn more about stars, binary systems, and chemical peculiarities.
 
-#interests:
+#Research interests:
 interests:
+    - $\delta$ Scuti stars
+    - $\gamma$ Doradus variables
+    - roAp stars
+    - lambda Bootis stars
+    - Am/Ap stars
+    - stellar evolution
+    - pre-main-sequence stars
+    - asteroseismic parameter inference
+    - pulsation timing
+    - binary star orbits
+
+#Social interests:
+Social interests:
 - Caving
 - Orienteering
 - Ice Hockey
