@@ -61,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-Simon Murphy is a postdoctoral researcher in asteroseismology (stellar pulsations) at the University of Sydney. His research interests include pulsating A/F (delta Scuti) stars, chemically peculiar (especially lambda Bootis) stars, and binary stars. He uses pulsation timing to find and parametrise binary systems. He also uses stellar pulsations to characterise stellar masses, ages and metallicities.
+Simon Murphy is a postdoctoral researcher in asteroseismology at the University of Sydney. He uses stellar pulsations to characterise stellar masses, ages and metallicities. His research focusses on pulsating A/F stars, particularly delta Scuti stars, and stellar chemically peculiarities such as the lambda Bootis phenomenon. He also uses pulsation timing to find and parametrise binary systems.
 
 Simon is also an outdoors enthusiast, participating in many adventure sports and activites.
