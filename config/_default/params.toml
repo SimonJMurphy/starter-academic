@@ -101,7 +101,7 @@ address = {street = "School of Physics, Physics Road, University of Sydney", cit
 coordinates = {latitude = "-33.88809", longitude = "151.18671"}
 #
 ## Directions for visitors to locate you.
-directions = "Enter The School of Physics (A28), go up 1 floor to Office 359B at the western end of the building."
+directions = "Enter The School of Physics (A28), go up 1 floor to level 3, then find office 359b at the western end of the building."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -125,7 +125,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "sjm"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
